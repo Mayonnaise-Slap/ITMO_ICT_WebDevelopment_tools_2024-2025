@@ -1,0 +1,6 @@
+site_name: ITMO ICT WEB DEV S2
+nav:
+  - Home: index.md
+  - lr1: report1.md
+  - lr2: report2.md
+  - lr3: report3.md
